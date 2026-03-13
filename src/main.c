@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include"math_utils.c"
+#include"math_utils.h"
 int main()
 {
     int n;
